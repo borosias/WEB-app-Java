@@ -1,0 +1,7 @@
+
+text.txt: Karon - 098-345-2367
+2.txt: Sodol - 123-456-7890
+text.txt: Kris - 953-327-3111
+test.txt: Kailo - 098-765-5432
+text.txt: Sanji - 078-315-7542
+test.txt: Satte - 058-246-6316
